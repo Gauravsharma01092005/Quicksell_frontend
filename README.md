@@ -37,11 +37,11 @@ Users should also be able to sort the displayed tickets in two ways:
 
 ## Live Demo
 
-Experience the application [here](https://janhavi-quicksell-assignment.vercel.app/)
+Experience the application [here](https://quicksell-frontend-4uht000le-gauravsharma01092005s-projects.vercel.app/)
 
 ## Repository
 
-Find the source code on [GitHub](https://github.com/janhavisri1410/Quicksell-Frontend-Assignment).
+Find the source code on [GitHub](https://github.com/Gauravsharma01092005/Quicksell_frontend).
 
 ## Tech Stack
 
